@@ -1,7 +1,7 @@
 <!-- new -->
 <!-- banner-start -->
 
-[![MasterHead](https://uploads-ssl.webflow.com/5993aad954d02c0001d7b10b/6009e6939c69e6d10af36369_BThumb_Cicada_1.gif)
+![MasterHead](https://uploads-ssl.webflow.com/5993aad954d02c0001d7b10b/6009e6939c69e6d10af36369_BThumb_Cicada_1.gif)
 
 
 <!-- banner-end -->
@@ -9,7 +9,7 @@
 <h3 align="center">Crafting captivating code and conquering chessboards – one move at a time. 🚀</h3>
 
 <!-- icon start -->
-<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif">
+<img align="cenrer" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif">
 <!-- icon end -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashgupta7337&label=Profile%20views&color=0e75b6&style=flat" alt="yashgupta7337" /> </p>
