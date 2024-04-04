@@ -1,6 +1,6 @@
-<div style="text-align:center;">
-  ![MasterHead](https://uploads-ssl.webflow.com/5993aad954d02c0001d7b10b/6009e6939c69e6d10af36369_BThumb_Cicada_1.gif)
-</div>
+<p align="center">
+  <img src="https://uploads-ssl.webflow.com/5993aad954d02c0001d7b10b/6009e6939c69e6d10af36369_BThumb_Cicada_1.gif" alt="Cicada 3301">
+</p>
 
 <h1 align="center">Hi 🧑🏻‍💻, I'm Yash Gupta</h1>
 <h3 align="center">Crafting captivating code and conquering chessboards – one move at a time 🚀</h3>
