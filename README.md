@@ -1,14 +1,15 @@
 <!-- new -->
 <!-- banner-start -->
 
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
+[![MasterHead](https://cdn.dribbble.com/users/2392101/screenshots/5459994/camping.gif)](https://rishavchanda.io)
+
 
 <!-- banner-end -->
 <h1 align="center">Hi 👋, I'm Yash Gupta</h1>
 <h3 align="center">Crafting captivating code and conquering chessboards – one move at a time. 🚀</h3>
 
 <!-- icon start -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2392101/screenshots/5459994/camping.gif">
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2392101/screenshots/5459994/camping.gif">
 <!-- icon end -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashgupta7337&label=Profile%20views&color=0e75b6&style=flat" alt="yashgupta7337" /> </p>
