@@ -16,7 +16,7 @@
 
 - 🌱 Sprouting fresh knowledge on MERN, AWS, and the art of containerizing with Dockers.
 
-- 💬📈 Ping me for a chat on the Chess, JavaScript sorcery with MERN, the alchemy of personal finance, or the rollercoaster world of equity markets.
+- 💬📈 Ping me for a chat on the [Chess](https://www.chess.com/member/docdelta), JavaScript sorcery with MERN, the alchemy of personal finance, or the rollercoaster world of equity markets.
 
 - 📫 Reach out and let’s connect at yashgupta1470@gmail.com – digital carrier pigeons welcome!
 
