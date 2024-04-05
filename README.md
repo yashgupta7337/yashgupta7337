@@ -16,7 +16,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashgupta7337&label=Profile%20views&color=0e75b6&style=flat" alt="yashgupta7337" /> </p>
 
 
-- 🌱 Sprouting fresh knowledge on MERN, AWS, and the art of containerizing with Dockers.
+- 🌱 Sprouting fresh knowledge on MERN, AWS, and the art of containerizing with Docker.
 
 - 💬📈 Ping me for a chat on the [Chess](https://www.chess.com/member/docdelta), JavaScript sorcery with MERN, the alchemy of personal finance, or the rollercoaster world of equity markets.
 
