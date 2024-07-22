@@ -5,7 +5,7 @@
 <!--banner-->
 
 <h1 align="center">Hi 🧑🏻‍💻, I'm Yash Gupta</h1>
-<h3 align="center">Crafting captivating code and conquering chessboards – one move at a time 🚀</h3>
+<h3 align="center">Crafting captivating Data Pipelines and conquering chessboards – one move at a time 🚀</h3>
 
 <!-- icon start -->
 <p align="center">
@@ -16,13 +16,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashgupta7337&label=Profile%20views&color=0e75b6&style=flat" alt="yashgupta7337" /> </p>
 
 
-- 🌱 Sprouting fresh knowledge on MERN, AWS, and the art of containerizing with Docker.
+- 🌱 Sprouting fresh knowledge on PostgreSQL, AWS Cloud, Python ETL, Data LakeHouse, Spark and much more!
 
-- 💬📈 Ping me for a chat on the [Chess](https://www.chess.com/member/docdelta), JavaScript sorcery with MERN, the alchemy of personal finance, or the rollercoaster world of equity markets.
+- 💬📈 Ping me for a chat on the [Chess](https://www.chess.com/member/docdelta)
 
 - 📫 Reach out and let’s connect at yashgupta1470@gmail.com – digital carrier pigeons welcome!
-
-- 📄 Peek into my digital dossier and explore my adventures at [Navigate to Yashify](https://yashify-dev.netlify.app/)
 
 - ⚡🧠♟️ Consider this tech tidbit: AI is shaking up the chess world like a savvy strategist outmaneuvering the grandmasters—expect the unexpected when silicon brains take on the legacy of kings. 
 
