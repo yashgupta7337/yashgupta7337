@@ -1,44 +1,58 @@
-<!--banner-->
-<p align="center">
-  <img src="https://uploads-ssl.webflow.com/5993aad954d02c0001d7b10b/6009e6939c69e6d10af36369_BThumb_Cicada_1.gif" alt="Cicada 3301 GIF">
-</p>
-<!--banner-->
+### Yash Gupta
 
-<h1 align="center">Hi 🧑🏻‍💻, I'm Yash Gupta</h1>
-<h3 align="center">Crafting captivating Data Pipelines and conquering chessboards – one move at a time 🚀</h3>
+Data Engineer · Bangalore, India  
+[buildwithmiyazaki.dev](https://buildwithmiyazaki.dev) · [yashgupta1470@gmail.com](mailto:yashgupta1470@gmail.com) · [LinkedIn](https://www.linkedin.com/in/yashgupta7337)
 
-<!-- icon start -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="Camp GIF">
-</p>
-<!-- icon end -->
+I independently own and scale data platforms in fast-paced, lean environments — leading critical migrations and architectural shifts that cut query latency by 90%+ and infrastructure cost by 35–40%. I specialize in cost-efficient, reliable pipelines and real-time systems.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashgupta7337&label=Profile%20views&color=0e75b6&style=flat" alt="yashgupta7337" /> </p>
+---
 
+**What I shipped at Connect and Heal (Jun 2024 → Present)**
 
-- 🌱 Sprouting fresh knowledge on PostgreSQL, AWS Cloud, Python ETL, Data LakeHouse, Spark and much more!
+| Result | What I did |
+|---|---|
+| 90%+ query latency cut | Migrated cloud-native lakehouse → ClickHouse; queries went from 60 s to ~5 s |
+| 40% Aurora cost reduction | Consolidated AWS Aurora Postgres across prod and lower environments |
+| 300 GB migrated, zero downtime | DocumentDB → Aurora Postgres: unstructured → structured, no row dropped |
+| 35% lakehouse cost reduction | Re-architected medallion lakehouse on S3 + Hudi + EMR + Glue + MWAA |
 
-- 💬📈 Ping me for a chat on the [Chess](https://www.chess.com/member/docdelta)
+---
 
-- 📫 Reach out and let’s connect at yashgupta1470@gmail.com – digital carrier pigeons welcome!
+**Stack**
 
-- ⚡🧠♟️ Consider this tech tidbit: AI is shaking up the chess world like a savvy strategist outmaneuvering the grandmasters—expect the unexpected when silicon brains take on the legacy of kings. 
+```
+Source ──► Ingest ──────────────► Process ──────────► Store ──────────────► Serve
+           S3 · DMS · Lambda        Spark · EMR · dbt    ClickHouse · Hudi     Metabase
+           Glue · Airflow (MWAA)    Python · SQL          Iceberg · PostgreSQL  Dashboards
+                                    Dagster                Aurora · DynamoDB     Athena
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/yashgupta7337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yashgupta7337" height="30" width="40" /></a>
-<a href="https://twitter.com/meyazakii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meyazakii" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/yashgupta7337/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashgupta7337" height="30" width="40" /></a>
-<a href="https://instagram.com/yashh.guptaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashh.guptaa" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/miyazaki1509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="miyazaki1509" height="30" width="40" /></a>
-<a href="https://discord.gg/yash1509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yash1509" height="30" width="40" /></a>
-</p>
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev)
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-<!--
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yashgupta7337&show_icons=true&theme=dark&title_color=0008ff&text_color=00b3ff&locale=en" alt="yashgupta7337" /></p>
--->
-<!--
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yashgupta7337&theme=dark" alt="yashgupta7337" /></p>
--->
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
+![Apache Hudi](https://img.shields.io/badge/Apache%20Hudi-00A1E4?style=flat-square&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)
+
+---
+
+**Featured projects**
+
+[**Stock Market Data Pipeline**](https://github.com/yashgupta7337/stock_market_airflow) — End-to-end Airflow + Spark pipeline: ingest daily stock data, transform with dockerized Spark, store in MinIO (S3-compatible) and PostgreSQL, visualize in Metabase.  
+`Airflow` `Spark` `Docker` `MinIO` `PostgreSQL` `Metabase`
+
+[**AI-Generated Fashion Design**](https://github.com/yashgupta7337/Fashion-NST-GAN) — Neural Style Transfer + GANs to blend artistic styles into unique patterns. 2nd place at NUS for innovation.  
+`Python` `NST` `GANs` `Deep Learning`
+
+---
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-buildwithmiyazaki.dev-22d3ee?style=flat-square)](https://buildwithmiyazaki.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yashgupta7337-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashgupta7337)
